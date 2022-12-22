@@ -1,2 +1,2 @@
 # jab
-A text-editor 
+A CLI text-editor made in RUST
